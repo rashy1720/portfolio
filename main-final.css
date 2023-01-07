@@ -342,7 +342,7 @@ transition: color 0.3s, background-color 0.3s, transform  0.3s, box-shadow 0.3s;
 
 #hamburger-menu{
   padding: 10em 0;
-  position: absolute;
+  position: fixed;
   top: 0;
   bottom: 0;
   right: -100%;
@@ -351,7 +351,6 @@ transition: color 0.3s, background-color 0.3s, transform  0.3s, box-shadow 0.3s;
   justify-content: space-around;
   align-items: center;
   width: 100%;
-  box-shadow: -3px 0 10px black;
   background-color: rgba(255, 255, 255, 0.95);
   transition: 0.3s;
 }
