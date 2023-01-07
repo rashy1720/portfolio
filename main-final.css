@@ -408,6 +408,8 @@ transition: color 0.3s, background-color 0.3s, transform  0.3s, box-shadow 0.3s;
     grid-template-columns: 1fr;
     gap: 0;
   }
+
+  
 }
 
 
@@ -415,3 +417,4 @@ transition: color 0.3s, background-color 0.3s, transform  0.3s, box-shadow 0.3s;
 .contacts .social-media a{
   color: white;
 }
+
